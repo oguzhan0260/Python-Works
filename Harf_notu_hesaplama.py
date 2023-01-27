@@ -39,21 +39,21 @@ print(ort)
 
 if ort>=90:
     print( "Harf NOTUN: AA")
-elif ort<90 and ort>=85:
+elif  ort>=85:
     print( "Harf NOTUN: BA")
-elif ort<85 and ort>=80:
+elif  ort>=80:
     print( "Harf NOTUN: BB")
-elif ort<80 and ort>=75:
+elif ort>=75:
     print( "Harf NOTUN: CB")
-elif ort<75 and ort>=70:
+elif  ort>=70:
     print( "Harf NOTUN: CC")
-elif ort<70 and ort>=65:
+elif ort>=65:
     print( "Harf NOTUN: DC")
-elif ort<65 and ort>=60:
+elif  ort>=60:
     print( "Harf NOTUN: DD")
-elif ort<60 and ort>=55:
+elif ort>=55:
     print( "Harf NOTUN: FD")
-elif ort<55 :
+else :
     print( "Harf NOTUN: FF")
 
     
