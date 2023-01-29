@@ -1,4 +1,4 @@
-## PYTHON NEDİR##
+## PYTHON NEDİR ##
 
 Kodlama programıdır.
 
