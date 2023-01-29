@@ -1,5 +1,5 @@
 """
-Örneğin , siz ATM makinesine gidip kartınızı yerleştiriyorsunuz ve program başlıyor.
+Örneğin , siz ATM makinesine gidip kartınızı yerleştiriyorsunuz ve program başlıyor...
  Para Çekme, Para Yatırma , Vergileri Ödeme gibi işlemleri tekrar tekrar gerçekleştiriyorsunuz. 
  Programın sona ermesi ise Kart İade seçeneği ile gerçekleşiyor. Yani siz Kart İade tuşuna basmadığınız sürece ATM makinesi
   çalışmaya devam ediyor. Buna bakarak ,aslında ATM makinesi döngü yapılarını kullanıyor diyebiliriz.
