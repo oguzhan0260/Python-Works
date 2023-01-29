@@ -1,1 +1,3 @@
+## PYTHON NEDİR##
 
+Kodlama programıdır.
