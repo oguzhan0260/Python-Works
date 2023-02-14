@@ -50,7 +50,7 @@ def number_reader(say):
     elif ones_digit==0:
         Ones_reader=""
 
-    return Tens_reader,Ones_reader
+    return Tens_reader +""+ Ones_reader
     
 
 
